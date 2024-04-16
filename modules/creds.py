@@ -1,1 +1,1 @@
-user_pwd = "Hitesh@20"  # use your MySQL Password
+user_pwd = "123456"  # use your MySQL Password
